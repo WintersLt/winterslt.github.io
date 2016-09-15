@@ -3,7 +3,7 @@
   
     {
       "title"			: "Software defined networking",
-      "link"			: "http://192.168.242.10:4000/blog/hello-world/",
+      "link"			: "https://winterslt.github.com/blog/hello-world/",
       "excerpt"		: "In this post I’ll try to summarize what I have learned about Software Defined Networking over past few months. This should serve as a guide to uninitiated as it is from the perspective of someone new to it."
     }
   
@@ -17,7 +17,7 @@
   
     ,{
       "title"			: "About me",
-      "link"			: "http://192.168.242.10:4000/about/",
+      "link"			: "https://winterslt.github.com/about/",
       "excerpt"		: ""
     }
   
